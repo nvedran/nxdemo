@@ -1,5 +1,5 @@
-import { getRandomAnimal } from "@tuskdesign/animals";
-import { getRandomName } from "@tuskdesign/names";
+import { getRandomAnimal } from "@nxdemo/animals";
+import { getRandomName } from "@nxdemo/names";
 
 const name = getRandomName();
 const animal = getRandomAnimal();
